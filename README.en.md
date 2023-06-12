@@ -1,7 +1,7 @@
 # 游戏制作指北
 English version|[Chinese version]( ./README.md)
 ## Description
-Game production theory, the content is compiled, translated, and drawn by myself. Printing is prohibited without permission.This content has been translated from Chinese to English using translation tools. If there are any translation errors, please feel free to correct them.
+Game production theory, the content is compiled, translated, and drawn by myself. This content has been translated from Chinese to English using translation tools. If there are any translation errors, please feel free to correct them.
 
 ### Game Type
 1. Role-playing game（RPG）
